@@ -1,0 +1,18 @@
+
+
+    {
+        "Employee":[
+            {
+                "firstname": "Adebayo",
+                "lastname":"Olaniyi"
+            },
+            {
+                "firstname": "Emeka",
+                "lastname":"Okoro"
+            },
+            {
+                "firstname": "Musa",
+                "lastname":"Hassan"
+            }
+        ]
+    }

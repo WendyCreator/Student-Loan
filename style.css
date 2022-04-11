@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.my-container{
+    min-height: 100vh;
+}
+/* .results{
+    display: none;
+} */
+.hide{
+    height: 300px;
+    overflow: hidden;
+    transition: height 1s;
+}
+.show{
+    height: 500px;
+    
+}
